@@ -4,7 +4,7 @@ I specialize in native Android development using Kotlin, building everything fro
 
 ### Technologies I Work With
 
-**Languages:** Kotlin, Golang, Python
+**Languages:** Kotlin
 **Architecture:** MVVM, MVP, Clean Architecture  
 **UI/UX:** Jetpack Compose, XML layouts, Material Design  
 **Backend Integration:** Retrofit, OkHttp, Room, Koin  
