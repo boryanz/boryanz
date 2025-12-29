@@ -1,4 +1,3 @@
----
 
 ## 🛠️ Technologies I Work With
 
@@ -11,4 +10,3 @@
 `JUnit` • `Espresso` • `Mockito`
 `Android Studio` • `Gradle` • `Git` • `Firebase`
 
----
